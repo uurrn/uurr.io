@@ -2,7 +2,7 @@
   <div :style="{height: `${wh}px`}" :class="['p-root', isNightMode ? 'is-black' : '']">
     <div class="c-header">
       <div class="c-header_logo">
-        <nuxt-link class="c-header_logo_link" to="/">uhck.in</nuxt-link>
+        <nuxt-link class="c-header_logo_link" to="/">uurr.io</nuxt-link>
         /
       </div>
     </div>
@@ -15,7 +15,7 @@
       </svg>
     </button>
     <nuxt/>
-    <div class="p-copyright">© uhck.in</div>
+    <div class="p-copyright">© uurr.io</div>
     <div class="p-bg"></div>
   </div>
 </template>

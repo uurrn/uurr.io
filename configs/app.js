@@ -1,9 +1,9 @@
 module.exports = {
-  name: 'Chiaki Uehira | uhck.in',
+  name: 'Chiaki Uehira | uurr.io',
   author: 'Chiaki Uehira',
   description: 'Chiaki Uehira - Designer / Programmer',
-  url: 'https://uhck.in/',
-  host: 'https://uhck.in/',
+  url: 'https://uurr.io/',
+  host: 'https://uurr.io/',
   theme_color: '#000',
   lang: 'ja'
-}
+};

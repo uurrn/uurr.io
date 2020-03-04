@@ -39,17 +39,15 @@
             <div class="p-profile_subtitle">どんなひとか</div>
             <div class="p-profile_group_text">
               物持ちがいいタイプだと思う。<br>
-              人と話すのが好き。<br>
-              （あんまり他が思い浮かばないので適当にプルリクエストをいただけると幸いです。）<br>
-              <a target="_blank" rel="noopener" href="https://github.com/in-the-box/uhck.in">https://github.com/in-the-box/uhck.in</a>
+              人と話すのが好き。
             </div>
             <div class="p-profile_subtitle">リンク</div>
             <div class="p-profile_group_text">
-              Twitter (<a target="_blank" rel="noopener" href="https://twitter.com/_uhck">https://twitter.com/_uhck</a>)<br>
+              Twitter (<a target="_blank" rel="noopener" href="https://twitter.com/uurrnnmm">https://twitter.com/uurrnnmm</a>)<br>
               Facebook (<a target="_blank" rel="noopener" href="https://www.facebook.com/chiaki.uehira">https://www.facebook.com/chiaki.uehira</a>)<br>
-              GitHub (<a target="_blank" rel="noopener" href="https://github.com/in-the-box">https://github.com/in-the-box</a>)<br>
+              GitHub (<a target="_blank" rel="noopener" href="https://github.com/uurrn">https://github.com/uurrn</a>)<br>
               Discord (Chiaki Uehira#9754)<br>
-              Mail (<a href="mailto:me@uhck.in">mailto:me@uhck.in</a>)
+              Mail (<a href="mailto:me@uurr.io">mailto:me@uurr.io</a>)
             </div>
           </div>
         </div>
@@ -147,23 +145,23 @@
           <div class="p-profile_group_head">✉️ お問い合わせ</div>
           <div class="p-profile_group_text">
             下記のメールアドレスからお気軽にお問い合わせください👋<br>
-            <a href="mailto:me@uhck.in">me@uhck.in</a>
+            <a href="mailto:me@uurr.io">me@uurr.io</a>
           </div>
         </div>
       </div>
       <div class="p-profile_footer">
         <div class="c-list">
           <div class="c-list_item">
-            <a class="c-list_item_link" target="_blank" rel="noopener" href="https://twitter.com/_uhck">Twitter</a>
+            <a class="c-list_item_link" target="_blank" rel="noopener" href="https://twitter.com/uurrnnmm">Twitter</a>
           </div>
           <div class="c-list_item">
             <a class="c-list_item_link" target="_blank" rel="noopener" href="https://www.facebook.com/chiaki.uehira">Facebook</a>
           </div>
           <div class="c-list_item">
-            <a class="c-list_item_link" target="_blank" rel="noopener" href="https://github.com/in-the-box">GitHub</a>
+            <a class="c-list_item_link" target="_blank" rel="noopener" href="https://github.com/uurrn">GitHub</a>
           </div>
           <div class="c-list_item">
-            <a class="c-list_item_link" href="mailto:me@uhck.in">Email</a>
+            <a class="c-list_item_link" href="mailto:me@uurr.io">Email</a>
           </div>
         </div>
       </div>

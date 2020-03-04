@@ -1,4 +1,4 @@
-const app = require('./configs/app')
+const app = require('./configs/app');
 
 module.exports = {
   mode: 'spa',
@@ -65,7 +65,7 @@ module.exports = {
 
   sitemap: {
     path: '/sitemap.xml',
-    hostname: 'https://uhck.in',
+    hostname: 'https://uurr.io',
     cacheTime: 1000 * 60 * 15,
     generate: true,
   },
@@ -81,4 +81,4 @@ module.exports = {
 
     }
   }
-}
+};
